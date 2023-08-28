@@ -1,15 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francis Ime
 ===================================================================================================================================
 
-Mathematics and ICT teacher, ALX software engineering student and a data analyst.
----------------------------------------------------------------------------------
+Frontend Expert| Turning Codes into Visual Stunning and Responsive Web Applications.
 
-I love teaching mathematics, networking systems and software development.
+
 
 * 🌍  I'm based in Uyo, Akwa Ibom state Nigeria.
 * ✉️  You can contact me at [wisdom276great@gmail.com](mailto:wisdom276great@gmail.com)
-* 🧠  I'm learning python for programmers and Switch and mikrotic router configuration.
-* ⚡  I also help in information security and data recovery.
 
 <a href="https://www.twitter.com/@wisdom2761" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@wisdom2761?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
